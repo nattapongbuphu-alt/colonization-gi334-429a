@@ -15,7 +15,13 @@ public enum Nation
     Aztec,
     Huron,
     Maya,
-    Inca
+    Inca,
+    Powhatan,
+    Creek,
+    Navajo,
+    Choctaw,
+    Wampanoag,
+    NarragansettTribe,
 }
 
 public class Faction : MonoBehaviour
